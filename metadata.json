@@ -1,0 +1,5 @@
+{
+  "name": "Chatrapati AI",
+  "description": "An advanced email classification tool that uses Gemini AI to detect spam, phishing attempts, and malicious content with deep contextual analysis and feature extraction visualization.",
+  "requestFramePermissions": []
+}
